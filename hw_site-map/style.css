@@ -1,0 +1,11 @@
+div {
+    margin-left: 35px;
+}
+
+.item {
+    list-style: url("ar.gif");
+}
+
+.item span {
+    margin: 0;
+}

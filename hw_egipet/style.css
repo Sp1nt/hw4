@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding:  15px;
+}
+
+.title {
+    text-align: center;
+    color: rgb(2, 161, 2);
+    margin-bottom: 20px;
+}
+
+.info {
+    margin-bottom: 30px;
+}
+
+.item {
+    font-weight: bold;
+}
+
+.item-info {
+    margin-left: 35px;
+    margin-bottom: 15px;
+}
+
+

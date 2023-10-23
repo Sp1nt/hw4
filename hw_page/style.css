@@ -1,0 +1,37 @@
+body {
+    font-size: 16px;
+}
+
+.box {
+    padding: 15px;
+}
+.heading {
+    color: rgb(6, 134, 6);
+    text-align: center;
+}
+
+.info-country {
+    color: rgb(255, 0, 0);
+    padding: 15px ;
+    font-size: 18px;
+    font-weight: bold;
+}
+.info-text {
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+}
+.text {
+    margin-left: 45px;
+}
+.heading-info {
+    color: red;
+    font-size: 21px;
+}
+.info-list {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(3, 106, 3);
+}
+ul {
+    list-style: disc;
+}
