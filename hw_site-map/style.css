@@ -9,3 +9,8 @@ div {
 .item span {
     margin: 0;
 }
+
+.info li span:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
